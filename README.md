@@ -1,3 +1,6 @@
+> [!IMPORTANT] 
+> This project has been archived. Please use [`qdrant-labs/fastembed-js`](https://github.com/qdrant-labs/fastembed-js) instead.
+
 <div align="center">
   <h1><a href="https://www.npmjs.com/package/fastembed">FastEmbed-js ⚡️</a></h1>
   <h3>Typescript/NodeJS implementation of <a href="https://github.com/qdrant/fastembed" target="_blank">@Qdrant/fastembed</a></h3>
